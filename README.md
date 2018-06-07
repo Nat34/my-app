@@ -1,2 +1,2 @@
 # my-app
-react app
+react app made to learn react
